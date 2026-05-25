@@ -1,0 +1,592 @@
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/404.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\404.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/about.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\about.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/careers.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\careers.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/coming-soon.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\coming-soon.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/contact.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\contact.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/close.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\close.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/datepicker.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\datepicker.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/flaticon.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\flaticon.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/font-awesome-pro.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\font-awesome-pro.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/select2.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\select2.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/themify-icons.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\themify-icons.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/vegas.slider.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\vegas.slider.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/plugins/YouTubePopUp.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\plugins\YouTubePopUp.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/css/style.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\css\style.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/facilities.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\facilities.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/faq.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\faq.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/themify.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/gallery.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\gallery.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/1.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\1.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/2.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\2.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/3.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\3.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/4.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\4.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/5.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\5.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/clients/6.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\clients\6.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/favicon.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\favicon.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/logo.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\logo.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/news/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\news\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/pricing/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\pricing\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/pricing/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\pricing\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/pricing/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\pricing\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/pricing/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\pricing\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/quot.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\quot.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/restaurant/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\restaurant\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/restaurant/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\restaurant\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/restaurant/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\restaurant\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/10.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\10.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/rooms/9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\rooms\9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/slider/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\slider\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/spa/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\spa\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/spa/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\spa\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/spa/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\spa\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/img/team/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\img\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index10.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index10.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index11.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index11.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index12.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index12.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index13.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index13.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index14.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index14.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index15.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index15.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index3.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index3.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index4.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index4.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index5.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index5.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index6.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index6.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index7.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index7.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index8.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index8.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/index9.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\index9.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/custom.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\custom.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/datepicker.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery-migrate-3.5.0.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery-migrate-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery.isotope.v3.0.2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery.isotope.v3.0.2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/pace.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\pace.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/popper.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/select2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\select2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/smooth-scroll.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\smooth-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/vegas.slider.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\vegas.slider.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/js/YouTubePopUp.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\js\YouTubePopUp.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/news.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\news.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/news2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\news2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/post.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\post.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/pricing.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\pricing.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/restaurant.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\restaurant.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/room-details.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\room-details.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/rooms.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\rooms.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/rooms2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\rooms2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/rooms3.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\rooms3.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/services.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\services.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/spa-wellness.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\spa-wellness.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/demo1-light/team.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\demo1-light\team.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/cappa/video.mp4
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\video.mp4
+Content Type: video/mp4
+
+Uri: https://duruthemes.com/demo/html/cappa/video.webm
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\cappa\video.webm
+Content Type: video/webm
+
+Uri: https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400&family=Barlow:wght@400&family=Gilda+Display&display=swap
+File Name: C:\Downloaded Web Sites\duruthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7EPCw.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\barlow\v13\7cHpv4kjgoGqM7EPCw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlowcondensed/v13/HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\barlowcondensed\v13\HTx3L3I-JCGChYJ8VI-L6OO_au7B2xY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\barlowcondensed\v13\HTxwL3I-JCGChYJ8VI-L6OO_au7B47rx_3E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR7Tk.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\gildadisplay\v20\t5tmIRoYMoaYG0WEOh7HwMeR7Tk.ttf
+Content Type: font/ttf
+
