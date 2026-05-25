@@ -1,14 +1,14 @@
 <?php
 include("db_conn.php");
 
-// ini_set('display_errors', '1');
-// 	require 'includes/PHPMailer.php';
-// 	require 'includes/SMTP.php';
-// 	require 'includes/Exception.php';
-// //Define name spaces
-// 	use PHPMailer\PHPMailer\PHPMailer;
-// 	use PHPMailer\PHPMailer\SMTP;
-// 	use PHPMailer\PHPMailer\Exception;
+ini_set('display_errors', '1');
+	require 'includes/PHPMailer.php';
+	require 'includes/SMTP.php';
+	require 'includes/Exception.php';
+//Define name spaces
+	use PHPMailer\PHPMailer\PHPMailer;
+	use PHPMailer\PHPMailer\SMTP;
+	use PHPMailer\PHPMailer\Exception;
 
 if (!isset($_REQUEST['room_uin'])){
     header("Location: rooms.php");
@@ -230,124 +230,124 @@ $roomPrice = isset($room['price']) ? (float) $room['price'] : 0;
                                         else{
 
             // Send confirmation email using PHPMailer
-    //         $mail = new PHPMailer(true);
+            $mail = new PHPMailer(true);
 
-    //         try {
-    //             // Server settings
-    //             $mail->isSMTP();
-    //             $mail->Host = 'mail.celiassuites.com';
-    //             $mail->SMTPAuth = true;
-    //             $mail->Username = 'info@celiassuites.com';
-    //             $mail->Password = MAIL_PASSWORD;
-    //             $mail->SMTPSecure = 'ssl';
-    //             $mail->Port = 465;
+            try {
+                // Server settings
+                $mail->isSMTP();
+                $mail->Host = 'mail.celiassuites.com';
+                $mail->SMTPAuth = true;
+                $mail->Username = 'info@celiassuites.com';
+                $mail->Password = MAIL_PASSWORD;
+                $mail->SMTPSecure = 'ssl';
+                $mail->Port = 465;
 
-    //             // Recipients
-    //             $mail->setFrom('info@celiassuites.com', 'Celia Suites');
-    //             $mail->addAddress('ademolaomomeji@gmail.com');
+                // Recipients
+                $mail->setFrom('info@celiassuites.com', 'Celia Suites');
+                $mail->addAddress('ademolaomomeji@gmail.com');
 
-    //             // Content
-    //             $mail->isHTML(true);
-    //             $mail->Subject = 'New Booking Notification';
-    //             $mail->Body = "<style>
+                // Content
+                $mail->isHTML(true);
+                $mail->Subject = 'New Booking Notification';
+                $mail->Body = "<style>
 
-    //     html,
-    //     body {
-    //         margin: 0 auto !important;
-    //         padding: 0 !important;
-    //         height: 100% !important;
-    //         width: 100% !important;
-    //         font-family: 'Roboto', sans-serif !important;
-    //         font-size: 14px;
-    //         margin-bottom: 10px;
-    //         line-height: 24px;
-    //         color: #aa8453;
-    //         font-weight: 400;
-    //     }
-    //     * {
-    //         -ms-text-size-adjust: 100%;
-    //         -webkit-text-size-adjust: 100%;
-    //         margin: 0;
-    //         padding: 0;
-    //     }
-    //     table,
-    //     td {
-    //         mso-table-lspace: 0pt !important;
-    //         mso-table-rspace: 0pt !important;
-    //     }
-    //     table {
-    //         border-spacing: 0 !important;
-    //         border-collapse: collapse !important;
-    //         table-layout: fixed !important;
-    //         margin: 0 auto !important;
-    //     }
-    //     table table table {
-    //         table-layout: auto;
-    //     }
-    //     a {
-    //         text-decoration: none;
-    //     }
-    //     img {
-    //         -ms-interpolation-mode:bicubic;
-    //     }
-    // </style>
+        html,
+        body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+            font-family: 'Roboto', sans-serif !important;
+            font-size: 14px;
+            margin-bottom: 10px;
+            line-height: 24px;
+            color: #aa8453;
+            font-weight: 400;
+        }
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        table table table {
+            table-layout: auto;
+        }
+        a {
+            text-decoration: none;
+        }
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+    </style>
 
-    // <center style='width: 100%; background-color: #f5f6fa;'>
-    //     <table width='100%' border='0' cellpadding='0' cellspacing='0' bgcolor='#f5f6fa'>
-    //         <tr>
-    //            <td style='padding: 40px 0;'>
-    //                 <table style='width:100%;max-width:620px;margin:0 auto;'>
-    //                     <tbody align='center'>
-	// 						<a href='https://celiassuites.com' target='_blank'><img style='height: 60px' src='https://celiassuites.com/logo.png' alt='Celia Suites'></a>
+    <center style='width: 100%; background-color: #f5f6fa;'>
+        <table width='100%' border='0' cellpadding='0' cellspacing='0' bgcolor='#f5f6fa'>
+            <tr>
+               <td style='padding: 40px 0;'>
+                    <table style='width:100%;max-width:620px;margin:0 auto;'>
+                        <tbody align='center'>
+							<a href='https://celiassuites.com' target='_blank'><img style='height: 60px' src='https://celiassuites.com/logo.png' alt='Celia Suites'></a>
 
-	// 						</tbody>
-    //                 </table>
-    //                 <table style='width:100%;max-width:620px;margin:0 auto;background-color:#ffffff;'>
-    //                     <tbody align='left'>
+							</tbody>
+                    </table>
+                    <table style='width:100%;max-width:620px;margin:0 auto;background-color:#ffffff;'>
+                        <tbody align='left'>
                             
-    //                         <tr>
-    //                             <td style='padding: 0 30px 20px;'>
+                            <tr>
+                                <td style='padding: 0 30px 20px;'>
 
-    //                             <p></p><br>
+                                <p></p><br>
 
-	// 								<p style='margin-bottom: 10px;'>New Booking Received.</p>
+									<p style='margin-bottom: 10px;'>New Booking Received.</p>
 
-	// 								<p style='margin-bottom: 10px;'>A new booking has been made for $room_name. Below are details of the booking.</p>
+									<p style='margin-bottom: 10px;'>A new booking has been made for $room_name. Below are details of the booking.</p>
 
-    //                                 <p style='margin-bottom: 10px;'>Customer Name: <strong> $customer_name.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Customer Email: <strong> $customer_email.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Customer Phone: <strong> $customer_phone.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Booking ID: <strong> $booking_id.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Check In Date: <strong> $checkInFormatted.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Check Out Date: <strong> $checkOutFormatted.</strong><br>
-	// 								<p style='margin-bottom: 10px;'>Number of Guest(s): <strong> $guest.</strong>
-    //                                  <hr>
+                                    <p style='margin-bottom: 10px;'>Customer Name: <strong> $customer_name.</strong><br>
+									<p style='margin-bottom: 10px;'>Customer Email: <strong> $customer_email.</strong><br>
+									<p style='margin-bottom: 10px;'>Customer Phone: <strong> $customer_phone.</strong><br>
+									<p style='margin-bottom: 10px;'>Booking ID: <strong> $booking_id.</strong><br>
+									<p style='margin-bottom: 10px;'>Check In Date: <strong> $checkInFormatted.</strong><br>
+									<p style='margin-bottom: 10px;'>Check Out Date: <strong> $checkOutFormatted.</strong><br>
+									<p style='margin-bottom: 10px;'>Number of Guest(s): <strong> $guest.</strong>
+                                     <hr>
 
-    //                             </td>
-    //                         </tr>
+                                </td>
+                            </tr>
 
-    //                     </tbody>
-    //                 </table>
-    //                 <table style='width:100%;max-width:620px;margin:0 auto;'>
-    //                     <tbody>
-    //                         <tr>
-    //                             <td style='text-align: center; padding:25px 20px 0;'>
-    //                                 <p style='font-size: 13px;'>Copyright © $year <strong>Celia Suites</strong>. All Rights Reserved. <br> </p>
+                        </tbody>
+                    </table>
+                    <table style='width:100%;max-width:620px;margin:0 auto;'>
+                        <tbody>
+                            <tr>
+                                <td style='text-align: center; padding:25px 20px 0;'>
+                                    <p style='font-size: 13px;'>Copyright © $year <strong>Celia Suites</strong>. All Rights Reserved. <br> </p>
 
-    //                                 <p style='padding-top: 15px; font-size: 12px;'>This email was sent to you as a registered Admin on <a style='color: #aa8453; text-decoration:none;' href=''><strong>Celia Suites</strong></a>.</p>
-    //                             </td>
-    //                         </tr>
-    //                     </tbody>
-    //                 </table>
-    //            </td>
-    //         </tr>
-    //     </table>
-    // </center>";
+                                    <p style='padding-top: 15px; font-size: 12px;'>This email was sent to you as a registered Admin on <a style='color: #aa8453; text-decoration:none;' href=''><strong>Celia Suites</strong></a>.</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+               </td>
+            </tr>
+        </table>
+    </center>";
 
-    //             $mail->send();
-    //         } catch (Exception $e) {
-    //             error_log("Mailer Error: " . $mail->ErrorInfo);
-    //         }
+                $mail->send();
+            } catch (Exception $e) {
+                error_log("Mailer Error: " . $mail->ErrorInfo);
+            }
 
                                         // $_SESSION["customer_name"] = $customer_name;
                                         // $_SESSION["customer_email"] = $customer_email;
